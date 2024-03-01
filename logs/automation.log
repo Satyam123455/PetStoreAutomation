@@ -1,0 +1,16 @@
+19:30:59.126 [main] INFO  api.test.UserTests2 - *********** Creating User *********
+19:31:02.999 [main] INFO  api.test.UserTests2 - *********** User is Created *********
+19:31:03.034 [main] INFO  api.test.UserTests2 - *********** Reading User Info *********
+19:31:03.157 [main] INFO  api.test.UserTests2 - *********** User Info is displayed *********
+19:31:03.162 [main] INFO  api.test.UserTests2 - *********** Updating User *********
+19:31:03.235 [main] INFO  api.test.UserTests2 - *********** User updated *********
+19:31:03.294 [main] INFO  api.test.UserTests2 - *********** Deleting User *********
+19:31:03.337 [main] INFO  api.test.UserTests2 - *********** User Deleted *********
+19:35:36.101 [main] INFO  api.test.UserTests2 - *********** Creating User *********
+19:35:40.600 [main] INFO  api.test.UserTests2 - *********** User is Created *********
+19:35:40.625 [main] INFO  api.test.UserTests2 - *********** Reading User Info *********
+19:35:40.742 [main] INFO  api.test.UserTests2 - *********** User Info is displayed *********
+19:35:40.747 [main] INFO  api.test.UserTests2 - *********** Updating User *********
+19:35:40.782 [main] INFO  api.test.UserTests2 - *********** User updated *********
+19:35:40.802 [main] INFO  api.test.UserTests2 - *********** Deleting User *********
+19:35:40.833 [main] INFO  api.test.UserTests2 - *********** User Deleted *********
